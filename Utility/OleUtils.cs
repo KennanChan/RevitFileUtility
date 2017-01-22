@@ -6,6 +6,7 @@ namespace Kennan.Revit.File.Utility
 {
     /// <summary>
     ///     Inspired by the soruce code of the specific article:
+    ///     http://thebuildingcoder.typepad.com/blog/2010/06/open-revit-ole-storage.html
     /// </summary>
     internal class OleUtils
     {
